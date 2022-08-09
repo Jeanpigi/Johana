@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 38%, rgba(0,212,255,1) 100%);
+}
+
+h2 {
+  font-family: "Josefin Sans",sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+p {
+  font-size: 2rem;
+  line-height: 2;
+  font-weight: 400;
+  letter-spacing: 0.7px;
+  margin-top: 8rem;
+  text-align: justify;
+}
